@@ -1,5 +1,12 @@
-
 #include <stdio.h>
+#include <string.h> // Para a função strcpy
+
+// Definindo a estrutura Aluno
+struct Aluno {
+    char nome[50];
+    int idade;
+    float mediaNotas;
+};
 
 int main() {
     // Declarando uma variável do tipo Aluno

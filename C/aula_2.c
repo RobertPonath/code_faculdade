@@ -1,5 +1,17 @@
 #include <stdio.h>
-
+//   desenvolva um pequeno programa em C que realize as seguintes tarefas:
+//   1. Defina uma constante que represente a taxa de juros anual (por exemplo, 5%).
+//   2. Declare variáveis para armazenar o valor inicial do investimento, o número de anos e o valor
+//   final do investimento.
+//   3. Solicite ao usuário que insira o valor inicial do investimento e o número de anos.
+//   4. Calcule o valor final do investimento utilizando a fórmula de juros simples: Valor Final = Valor
+//   Inicial * (1 + (Taxa de Juros * Anos)).
+//   5. Exiba o valor final do investimento.
+//   6. Além disso, declare um vetor de inteiros com 3 elementos e uma matriz 2x2 de inteiros.
+//   Inicialize-os com valores à sua escolha.
+//   7. Utilize um ponteiro para acessar e modificar o primeiro elemento do vetor.
+//   8. Exiba os valores dos elementos do vetor e da matriz, bem como os endereços de memória
+//   de cada elemento.
 // Definição de constantes
 #define TAXA_JUROS_ANUAL 0.05
 
